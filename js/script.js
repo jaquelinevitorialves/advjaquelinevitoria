@@ -12,7 +12,7 @@ const CONFIG = {
      Formato internacional, somente números:
      55 (Brasil) + DDD + número.  Ex.: 5511987654321
      --------------------------------------------------------------------- */
-  numeroWhatsApp: '5549991192594',
+  numeroWhatsApp: '55499991192594',
 
   /* ---------------------------------------------------------------------
      2) MENSAGENS DO WHATSAPP  ←←← EDITE AQUI
@@ -37,7 +37,7 @@ const CONFIG = {
   dados: {
     nome:     'Jaqueline Vitória',
     oab:      'SC 77.565 ',
-    whatsapp: '(49) 9956-0862',
+    whatsapp: '(49) 99119-2594', 
     telefone: '(00) 0000-0000',
     email:    'jaquelinealvesvitoria@outlook.com',
     endereco: 'Rua lages, nº 316, sala A  —  Centro, Curitibanos/SC',
