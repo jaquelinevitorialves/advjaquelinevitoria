@@ -12,7 +12,7 @@ const CONFIG = {
      Formato internacional, somente números:
      55 (Brasil) + DDD + número.  Ex.: 5511987654321
      --------------------------------------------------------------------- */
-  numeroWhatsApp: '55499991192594',
+  numeroWhatsApp: '5549991192594',
 
   /* ---------------------------------------------------------------------
      2) MENSAGENS DO WHATSAPP  ←←← EDITE AQUI
